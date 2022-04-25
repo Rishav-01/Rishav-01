@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rishav-01
-- 👀 I’m interested in AI, ML & backend developer 
+- 👀 I’m interested in AI, ML & frontend devloping 
 - 🌱 I’m currently learning C, C++ and little bit of Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
