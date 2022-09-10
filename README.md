@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rishav-01
 - 👀 I’m interested in DSA, CP and frontend devlopment...
-- 🌱 I’m currently learning C, C++ and little bit of Python
+- 🌱 I know Python and C++.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
       My Insta - rishav_th9
