@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Rishav-01
+- 👋 Hi, I’m Rishav Raj
 - 👀 I’m interested in DSA, CP and frontend devlopment...
-- 🌱 I know Python and C++.
+- 🌱 I know Python, C++ and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
       My Insta - rishav_th9
