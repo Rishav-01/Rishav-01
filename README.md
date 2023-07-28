@@ -2,8 +2,8 @@
 - 👀 I’m interested in DSA, CP and frontend devlopment...
 - 🌱 I know Python, C++ and Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-      My Portfolio - https://rishav-01.github.io/My_Portfolio/  
+- 📫 How to reach me -:
+-     My Portfolio - https://rishav-01.github.io/My_Portfolio/  
       My Insta - rishav_th9
       Email - rishulal29@gmail.com
 
