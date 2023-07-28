@@ -3,9 +3,8 @@
 - 🌱 I know Python, C++ and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -:
--     My Portfolio - https://rishav-01.github.io/My_Portfolio/  
-      My Insta - rishav_th9
-      Email - rishulal29@gmail.com
+- My Portfolio - https://rishav-01.github.io/My_Portfolio/
+- My Insta - rishav_th9
 
 <!---
 Rishav-01/Rishav-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
