@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rishav Raj
 - 👀 I’m interested in DSA, CP and frontend devlopment...
 - 🌱 I know Python, C++ and Java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate towards Full Stack Web Development
 - 📫 How to reach me -:
 - My Portfolio - https://rishav-01.github.io/My_Portfolio/
 - My Insta - rishav_th9
