@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rishav Raj
-- 👀 I’m interested in DSA, CP and frontend devlopment...
+- 👀 I’m interested in DSA, CP and Full Stack Web devlopment...
 - 🌱 I know Python, C++ and Java
 - 💞️ I’m looking to collaborate towards Full Stack Web Development
 - 📫 How to reach me -:
