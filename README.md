@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rishav Raj
 - 👀 I’m interested in DSA, CP and Full Stack Web devlopment...
-- 🌱 I know Python, C++ and Java
+- 🌱 I know Python, C++, Java, Javascript, NodeJS, ExpressJS, EJS, MongoDB, Axios
 - 💞️ I’m looking to collaborate towards Full Stack Web Development
 - 📫 How to reach me -:
 - My LinkedIn - https://www.linkedin.com/in/rishav-raj-8128bb228/
