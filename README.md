@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rishav-01.github.io/My_Portfolio/](https://rishav-01.github.io/My_Portfolio/)
 
-- 💬 Ask me about **React, MongoDb, Nodejs, Expressjs, Firebase, HTML, Css, Javascript**
+- 💬 Ask me about **React, MongoDb, Nodejs, Expressjs, Firebase, EJS, HTML, Css, Javascript**
 
 - 📫 How to reach me **rishulal29@gmail.com**
 
