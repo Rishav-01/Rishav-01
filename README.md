@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-omega-two-52.vercel.app/]([https://portfolio-omega-two-52.vercel.app/])
+- 👨‍💻 All of my projects are available at [https://portfolio-omega-two-52.vercel.app/]([(https://portfolio-omega-two-52.vercel.app/)])
 
 - 💬 Ask me about **React, MongoDb, Nodejs, Expressjs, Firebase, EJS, HTML, Css, Javascript**
 
