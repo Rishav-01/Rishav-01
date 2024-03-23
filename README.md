@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rishulal29@gmail.com**
 
-- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1B8vUs1LI3nrx1R9TTGihgI0fcIdWUo-5/view?usp=sharing)
+- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1BuVMGoMxPy8IX8dxzheZzRujTMbpa8dv/view?usp=sharing)
 
 - ⚡ Fun fact **I am very talkative**
 
