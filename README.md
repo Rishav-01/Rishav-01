@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishav-01" alt="rishav-01" /></a> </p>
 
-- 🌱 I’m currently learning **NextJs**
-
 - 👯 I’m looking to collaborate on **Full Stack Development**
 
 - 👨‍💻 All of my projects are available [Here](https://portfolio-omega-two-52.vercel.app/)
